@@ -1,305 +1,314 @@
-"viewall":[
-    { "id": 1, 
+{
 
-     "product_name": "EverPure Sulfate Free Frizz Defy Shampoo",
+    "light-weight": [
+        { "id": 2, 
 
-     "brand":"loreal",
+            "product_name": "Sleek & Shine Shampoo",
+       
+            "brand":"garnier fructis",
 
-     "price":"6.72"
+            "product_description":"Smoothes got long-lasting frizz control and shine. Get 10X smoother and stay sleek for 3 days.",
+       
+            "price":"6.97"
+       
+           },
 
-    },
+           { "id": 9, 
 
-    { "id": 2, 
+            "product_name": "Sleek & Shine Conditioner",
+       
+            "brand":"garnier",
 
-     "product_name": "Sleek & Shine Shampoo",
+            "product_description":"Get up to 3 day sleek and shine system of shampoo, conditioner and leave-in cream",
+       
+            "price":"6.97"
+       
+           },
 
-     "brand":"garnier",
+           { "id": 16, 
 
-     "price":"6.97"
+            "product_name": "Shea Butter Leave-In Conditioner",
+        
+            "brand":"Cantu",
 
-    },
+            "product_description":"Provides instense moisture to leave hair soft and managable",
+        
+            "price":"5.97"
+        
+           },
 
-    { 
-      "id" : 3,
+           { "id": 19, 
 
-     "product_name": "Shea Butter for Natural Hair Sulfate Free Cleansing Creame Shampoo",
+            "product_name": "It's A 10 Miracle Leave-In Conditioner",
+        
+            "brand":"It's A 10",
 
-     "brand":"Cantu",
+            "product_description":"Repairs dry, damaged hair while adding shine. Will detangle and control frizz, while sealing and protecting hair and preventing split ends and breakage.",
+        
+            "price":"24.99"
+        
+           },
 
-     "price":"4.97"
+           { "id": 21, 
 
-    },
+            "product_name": "Weightless Shine Leave-In Conditioner",
+        
+            "brand":"Kristin Ess",
 
-    { "id": 4, 
+            "product_description":"",
+        
+            "price":"10.00"
+        
+           },
 
-      "product_name": "Coconut & Hibiscus Curl & Shine Shampoo Sulfate free",
- 
-      "brand":"Shea Moisture",
- 
-      "price":"9.97"
- 
-     },
+           { "id": 22, 
 
+            "product_name": "Extra Hold Spray",
+        
+            "brand":"TRESemme",
 
-     { "id": 5, 
+            "product_description":"Keeps your hairstyles frizz-free and in control.",
+        
+            "price":"4.49"
+        
+           },
 
-      "product_name": "Quenching + Coconut Curls Shampoo",
- 
-      "brand":"OGX",
- 
-      "price":"5.74"
- 
-     },
+           { "id": 24, 
 
-     { "id": 6, 
+            "product_name": "Mega Thick Formula hair Oil",
+       
+            "brand":"DOO GRO",
 
-      "product_name": "Renewing Argan Oil Of Morocco Shampoo",
- 
-      "brand":"OGX",
- 
-      "price":"9.97"
- 
-     },
-    { 
-      "id" : 7,
+            "product_description":"Promotes thick, strong, growing hair. Thickens and strengthns weak and damages hair.",
+       
+            "price":"5.77"
+       
+           },
 
-     "product_name": "EverPure Sulfate Free Frizz Defy Conditioner",
+           { "id": 26, 
 
-     "brand":"loreal",
+            "product_name": "Renewing Moroccan Argan Oil",
+       
+            "brand":"OGX",
 
-     "price":"6.72"
+            "product_description":"Instant shine and conditioning",
+       
+            "price":"5.49"
+       
+           },
 
-    },
+           { "id": 28, 
 
-    {
-      "id":8,
+            "product_name": "Nourshing Coconut Oil Weightless Hydrating Oil Mist",
+       
+            "brand":"OGX",
 
-     "product_name": "Paraben Free Total Miracle Conditioner w/ Apricot",
+            "product_description":"Nourishes strands. Hydrating bamboo extract adds shhine andd touchable softness",
+       
+            "price":"5.49"
+       
+           },
 
-     "brand":"Aussie",
+           { "id": 30, 
 
-     "price":"4.94"
+            "product_name": "Smoothing Super Skinny Serum",
+       
+            "brand":"Paul Mitchell",
 
-    },
+            "product_description":"Smooths and conditions",
+       
+            "price":"19.00"
+       
+           }
 
-    { "id": 9, 
-
-      "product_name": "Sleek & Shine Conditioner",
- 
-      "brand":"garnier",
- 
-      "price":"6.97"
- 
-     },
-
-    {
-      "id":10,
-
-     "product_name": "Coconut & Hibiscus Curl & shine Conditioner Sulfate free",
-
-     "brand":"Shea Moisture",
-
-     "price":"9.97"
-
-    },
-
-    { "id": 11, 
-
-      "product_name": "Renewing Argan Oil Of Morocco Condtioner",
- 
-      "brand":"OGX",
- 
-      "price":"5.74"
- 
-    },
-
-    { "id": 12, 
-
-      "product_name": "3 Miracle Moist Deep Conditioning Treatment",
- 
-      "brand":"Aussie",
- 
-      "price":"4.94"
- 
-     },
-
-     { "id": 13, 
-
-      "product_name": "Quenching + Coconut Curls Conditioner",
- 
-      "brand":"OGX",
- 
-      "price":"5.74"
- 
-     },
-
-     { "id": 14, 
-
-      "product_name": "Miracle Curls Curl-Defining Oil Hair Treatment with Jojoba Oil",
- 
-      "brand":"Aussie",
- 
-      "price":"4.97"
- 
-     },
-    {
-    "id": 15,
-
-     "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",
-
-     "brand":"Palmer's",
-
-     "price":"5.97"
-
-  },
-
-  { "id": 16, 
-
-    "product_name": "Shea Butter Leave-In Conditioner",
-
-    "brand":"Cantu",
-
-    "price":"5.97"
-
-   },
-
-   { "id": 17, 
-
-    "product_name": "Olive Oil Incredibly Rich Oil Moisturizing Hair Lotion",
-
-    "brand":"ORS",
-
-    "price":"4.97"
-
-   },
-
-   { "id": 18, 
-
-    "product_name": "Argon Oil Curl Activiator Creme",
-
-    "brand":"Creme of Nature",
-
-    "price":"10.40"
-
-   },
-
-   { "id": 19, 
-
-    "product_name": "It's A 10 Miracle Leave-In Conditioner",
-
-    "brand":"It's A 10",
-
-    "price":"24.99"
-
-   },
-
-   { "id": 20, 
-
-    "product_name": "Sleek & Shine Intensely Smooth Leave-In Conditioning creme",
-
-    "brand":"garnier fructis",
-
-    "price":"3.99"
-
-   },
-
-   { "id": 21, 
-
-    "product_name": "Weightless Shine Leave-In Conditioner",
-
-    "brand":"Kristin Ess",
-
-    "price":"10.00"
-
-   },
-
-   { "id": 22, 
-
-    "product_name": "Extra Hold Spray",
-
-    "brand":"TRESemme",
-
-    "price":"4.49"
-
-   },
-
-  {
-    "id":23,
-
-     "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
-
-     "brand":"shea moisture",
-
-     "price":"8.90"
-
-  },
-    { "id": 24, 
-
-        "product_name": "Mega Thick Formula hair Oil",
-   
-        "brand":"DOO GRO",
-   
-        "price":"5.77"
-   
-       },
-
-       { "id": 25, 
-
-        "product_name": "Jamaican Black caster Oil",
-   
-        "brand":"Tropic Isle Living",
-   
-        "price":"7.62"
-   
-       },
-
-       { "id": 26, 
-
-        "product_name": "Renewing Moroccan Argan Oil",
-   
-        "brand":"OGX",
-   
-        "price":"5.49"
-   
-       },
-
-       { "id": 27, 
-
-        "product_name": "Olive Oil Styling Gel",
-   
-        "brand":"ECO Styler",
-   
-        "price":"2.97"
-   
-       },
-
-       { "id": 28, 
-
-        "product_name": "Nourshing Coconut Oil Weightless Hydrating Oil Mist",
-   
-        "brand":"OGX",
-   
-        "price":"5.49"
-   
-       },
-
-       { "id": 29, 
-
-        "product_name": "100% Extra Virgin Coconunt Oil",
-   
-        "brand":"Shea Moisture",
-   
-        "price":"13.88"
-   
-       },
-
-       { "id": 30, 
-
-        "product_name": "Smoothing Super Skinny Serum",
-   
-        "brand":"Paul Mitchell",
-   
-        "price":"19.00"
-   
-       }
+  
     ],
+  
+    "normal": [
+  
+        { 
+            "id" : 3,
+      
+           "product_name": "Shea Butter for Natural Hair Sulfate Free Cleansing Creame Shampoo",
+      
+           "brand":"Cantu",
+
+           "product_description":"Deeply cleans and removes heavy buildup; gently cleanses",
+      
+           "price":"4.97"
+      
+          },
+
+          { "id": 5, 
+
+            "product_name": "Quenching + Coconut Curls Shampoo",
+       
+            "brand":"OGX",
+
+            "product_description":"Unique blend of sulfate-free surfants for curl-quenching hydration",
+       
+            "price":"5.74"
+       
+           },
+
+           { "id": 6, 
+
+            "product_name": "Renewing Argan Oil Of Morocco Shampoo",
+       
+            "brand":"OGX",
+
+            "product_description":"Repair, restore and revitalize hair. ",
+       
+            "price":"9.97"
+       
+           },
+
+           { 
+            "id" : 7,
+      
+           "product_name": "EverPure Sulfate Free Frizz Defy Conditioner",
+      
+           "brand":"loreal",
+
+           "product_description":"Deeply conditionns frizz-prone hair for humidity + frizz control, manageability ans smooth luminosity.",
+      
+           "price":"6.72"
+      
+          },
+
+          {
+            "id":10,
+      
+           "product_name": "Coconut & Hibiscus Curl & shine Conditioner Sulfate free",
+      
+           "brand":"Shea Moisture",
+
+           "product_description":"Anti-rizz, moisture, and shine",
+      
+           "price":"9.97"
+      
+          },
+
+          { "id": 13, 
+
+            "product_name": "Quenching + Coconut Curls Conditioner",
+       
+            "brand":"OGX",
+
+            "product_description":"Drench your curls with this rich blend of nourishing coconut oil to enhance natural softness.",
+       
+            "price":"5.74"
+       
+           },
+
+           { "id": 14, 
+
+            "product_name": "Miracle Curls Curl-Defining Oil Hair Treatment with Jojoba Oil",
+       
+            "brand":"Aussie",
+
+            "product_description":"Use it to instanly hydrate parched strands and help stop split ends",
+       
+            "price":"4.97"
+       
+           },
+
+           { "id": 16, 
+
+            "product_name": "Shea Butter Leave-In Conditioner",
+        
+            "brand":"Cantu",
+
+            "product_description":"Provides intense moisture to leave hair soft and manageable",
+        
+            "price":"5.97"
+        
+           },
+
+           { "id": 18, 
+
+            "product_name": "Argon Oil Curl Activiator Creme",
+        
+            "brand":"Creme of Nature",
+
+            "product_description":"Instantly revives curls. Anti-frizz. Refreshes dry curls. Great for detangling.",
+        
+            "price":"10.40"
+        
+           },
+
+           { "id": 20, 
+
+            "product_name": "Sleek & Shine Intensely Smooth Leave-In Conditioning creme",
+        
+            "brand":"garnier fructis",
+
+            "product_description":"Formulated to support your hair's natural strength, help control frizz and eave your hair managable.",
+        
+            "price":"3.99"
+        
+           },
+
+           {
+            "id":23,
+        
+             "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
+        
+             "brand":"shea moisture",
+
+             "product_description":"Nourishing styling aid for thick, curl hair defines curls, reduce frizz and smoothes hair for a soft, silky feel.",
+        
+             "price":"8.90"
+        
+          },
+
+          { "id": 26, 
+
+            "product_name": "Renewing Moroccan Argan Oil",
+       
+            "brand":"OGX",
+
+            "product_description":"Deeply heal, smooth and restore luster to damaged strands.",
+       
+            "price":"5.49"
+       
+           },
+
+           { "id": 27, 
+
+            "product_name": "Olive Oil Styling Gel",
+       
+            "brand":"ECO Styler",
+
+            "product_description":"Shines, nourishes, repairs and promotes hair growth. No flake, no tack, anti-itch hair styling product.",
+       
+            "price":"2.97"
+       
+           },
+    
+           { "id": 28, 
+    
+            "product_name": "Nourshing Coconut Oil Weightless Hydrating Oil Mist",
+       
+            "brand":"OGX",
+
+            "product_description":"Nourishes strands. Nydrating bamboo extracts adds shine and touchable softness",
+       
+            "price":"5.49"
+       
+           },
+    
+           { "id": 29, 
+    
+            "product_name": "100% Extra Virgin Coconunt Oil",
+       
+            "brand":"Shea Moisture",
+
+            "product_description":"Head-to-toe nourishing hydration. Soften and restore hair and skin.",
+       
+            "price":"13.88"
+       
+           }
+
+    ]
+}
